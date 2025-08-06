@@ -1,0 +1,26 @@
+Contributions
+=============
+
+Kiefer
+------
+- Implemented AES encryption/decryption logic to ensure confidentiality of data.
+- Built file reading and writing logic for secure file handling.
+- Contributed to the CLI interface, focusing on usability and robust error handling.
+
+Athrun
+------
+- Developed RSA key generation and digital signature logic for non-repudiation.
+- Implemented signature creation and verification.
+- Helped integrate PKI-based key management.
+
+Aaron
+-----
+- Implemented SHA-256 hashing to ensure file integrity.
+- Developed hash comparison and validation processes.
+- Assisted with server-side verification logic.
+
+Mirza
+-----
+- Built networking components over TCP sockets for client-server communication.
+- Structured data packet formats for reliable transmission.
+- Managed server acknowledgements and response flow.
