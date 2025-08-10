@@ -1,0 +1,4 @@
+Hello, this is a test file for secure transfer!
+This file contains some sample data to test the encryption and decryption process.
+Line 3: Testing integrity verification with digital signatures.
+Line 4: 🔒 Secure communication established! 🔐
